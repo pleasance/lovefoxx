@@ -34,15 +34,15 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.15",
     "siteFonts": [],
-    "uniqCompNum": 8,
+    "uniqCompNum": 9,
     "versionPublish": "4.10.15"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "lovefoxx <3",
+        "meta_descr": "i twitch on stream!",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
